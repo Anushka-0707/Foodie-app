@@ -15,7 +15,9 @@ This project is a Food Ordering Application developed using the MERN stack (Mong
 **Technologies Used**
 
 **Frontend:** React.js
+
 **Backend:** Node.js, Express.js
+
 **Database:** MongoDB
 
 **Installation**
